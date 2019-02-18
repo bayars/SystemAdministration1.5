@@ -1,6 +1,6 @@
-# Sistem Yönetimi 1.5 Alıştırmaları
+# GNU/Linux: Sistem Yönetimi 1.5 Alıştırmaları
 
-Mustafa Akgül Özgür Yazılım Kış Kampında, GNU/Linux: Sistem Yönetimi 1.5 sınıfında lvm konusunu anlattım. Bazı alıştırmalar yetişmemişti. Bu alıştırmaları yaparak hem konuları unutmamış olursunuz hem de lvm'in avantajlarını iyi anlamış olursunuz.
+Mustafa Akgül Özgür Yazılım Kış Kampında, [GNU/Linux: Sistem Yönetimi 1.5](https://kamp.linux.org.tr/2019/kis/kurslar/gnu-linux-sistem-yonetimi-15/) sınıfında lvm konusunu anlattım. Bazı alıştırmalar yetişmemişti. Bu alıştırmaları yaparak hem konuları unutmamış olursunuz hem de lvm'in avantajlarını iyi anlamış olursunuz. 
 
 Normal durumda bu alıştırmaların bazılarını sınıfta yapmamız gerekiyordu. Bu alıştırmalar lvm'i daha iyi anlamanıza ve unutmamanıza yardımcı olacaktır. Yaptığınız alıştırmaları isminiz ile oluşturduğunuz branch altında yapmanız iyi olur. Karşılaştığınız sorunları yazarsanız da ilgilenirim.
 
